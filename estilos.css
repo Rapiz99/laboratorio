@@ -1,0 +1,74 @@
+h1 {
+	color: red;
+	text-align: left;
+}
+h2{
+	color: red;
+	background-color: green;
+}
+
+h3{
+	color: white;
+	background-color: green;
+}
+
+.software{
+	color: red;
+	font-weight: lighter;
+	font-size: 50px;
+}
+
+.em{
+	color: red;
+	background-color: yellow;
+
+}
+.libertad{
+	color: white;
+	background-color: gray ;
+}
+
+.c1{
+	background-color: red;
+}
+
+.c3{
+	color: white;
+	background-color: black;
+}
+
+.l1{
+
+	background-color: gray;
+}
+
+.u1{
+	color: white;
+	background-color: green;
+}
+.c2{
+	background-color: green;
+}
+
+.blue{
+	color: white;
+	background-color: blue;
+}
+.Ñu{
+	color:blue; 
+	background-color: black;
+	font-size: 60px;
+}
+.f{
+	color: white;
+	background-color: black;
+}
+.gn{
+	color: red;
+	font-size: 60px;
+}
+.programs{
+	color: green;
+    font-size: 50px;
+	text-align: center;
+}
